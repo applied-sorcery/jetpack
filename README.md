@@ -8,8 +8,13 @@ I was able to implement my own flying controls with some effort, and although th
 
 ## Features so far:
 <ul>
+  <li>a boring map with no exit</li>
   <li>a sprite for the main character</li>
   <li>running animations</li>
+  <li>ability to toggle jetpack on/off</li>
+  <li>ability to fly when jetpack on</li>
+  <li>jetpack fuel meter</li>
+  <li>replenish jetpack fuel button</li>
   <li>tileset (ground/walls/ceilings)</li>
 </ul>
 
